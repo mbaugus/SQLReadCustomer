@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlReadCustomer", "SqlReadCustomer\SqlReadCustomer.csproj", "{8E66661C-7326-4411-9069-192FBE211398}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLib", "SqlLib\SqlLib.csproj", "{1E2BF291-23C2-478C-A64D-526E760630A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8E66661C-7326-4411-9069-192FBE211398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E66661C-7326-4411-9069-192FBE211398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E66661C-7326-4411-9069-192FBE211398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2BF291-23C2-478C-A64D-526E760630A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2BF291-23C2-478C-A64D-526E760630A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2BF291-23C2-478C-A64D-526E760630A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2BF291-23C2-478C-A64D-526E760630A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
